@@ -1,7 +1,7 @@
 # zhihu_search_alfred_workflow
 An workflow for Alfred about searching on zhihu
 
-##Basics
+## Basics
 开发基于 `JavaScript`, `node`,  `cheerio`, `知乎搜索`
 使用平台: `Alfred`
 
@@ -11,7 +11,7 @@ response 的解析依赖于开源的 [cheerio](https://github.com/cheeriojs/chee
 
 --
 
-##功能
+## 功能
 
 使用 Alfred 基于关键词快捷搜索知乎平台上的问题及回答
 触发 keyword: `zh`
@@ -19,7 +19,7 @@ response 的解析依赖于开源的 [cheerio](https://github.com/cheeriojs/chee
 列表 subtitle 为每一条结果的 author&summary 拼接
 
 
-##预览
+## 预览
 
 ![](screenshots/zhihu_search1.png)
 
