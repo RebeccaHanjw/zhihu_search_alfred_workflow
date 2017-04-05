@@ -14,8 +14,11 @@ response 的解析依赖于开源的 [cheerio](https://github.com/cheeriojs/chee
 ## 功能
 
 使用 Alfred 基于关键词快捷搜索知乎平台上的问题及回答
+
 触发 keyword: `zh`
+
 列表 title 为每一条结果的 title
+
 列表 subtitle 为每一条结果的 author&summary 拼接
 
 
