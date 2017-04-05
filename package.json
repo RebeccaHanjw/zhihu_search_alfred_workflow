@@ -1,0 +1,24 @@
+{
+  "name": "zhihu_search",
+  "version": "1.0.0",
+  "author": "Rebecca_Han",
+  "description": "知乎搜索",
+  "main": "zhihu_search.js",
+  "keywords": [
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RebeccaHanjw/zhihu_search_alfred_workflow.git"
+  },
+  "contributors": [
+    {
+      "name": "Rebecca",
+      "email": "rebecca_jwhan@163.com"
+    }
+  ],
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {}
+}
